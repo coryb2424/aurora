@@ -1,0 +1,9 @@
+id,type,mon,tue,wed,thur,fri
+1,cert,true,true,true,false,false
+2,cert,true,true,true,false,false
+3,pcert,true,false,true,false,false
+4,pcert,true,true,true,false,false
+5,labr,true,true,true,false,false
+6,labr,true,false,true,false,false
+7,labr,true,true,true,false,false
+8,labr,true,true,true,false,false
